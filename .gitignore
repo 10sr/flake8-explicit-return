@@ -1,0 +1,4 @@
+__pycacache__
+coverage.xml
+.coverage
+*.egg-info
