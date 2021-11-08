@@ -1,0 +1,3 @@
+def f1():
+    a = 1
+    print(a)
